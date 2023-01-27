@@ -1,1 +1,2 @@
-dhasuhdas
+
+print ("hello world")
