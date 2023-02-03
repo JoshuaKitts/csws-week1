@@ -1,1 +1,1 @@
-dhasuhdas
+print("hello world")
